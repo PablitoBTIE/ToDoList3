@@ -1,0 +1,7 @@
+C:\Users\Minio\Desktop\PiecProstychZadan2\ToDoList\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.csproj.AssemblyReference.cache
+C:\Users\Minio\Desktop\PiecProstychZadan2\ToDoList\ToDoList\ToDoList\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\Minio\Desktop\PiecProstychZadan2\ToDoList\ToDoList\ToDoList\obj\Debug\net8.0\Avalonia\resources
+C:\Users\Minio\Desktop\PiecProstychZadan2\ToDoList\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minio\Desktop\PiecProstychZadan2\ToDoList\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\Minio\Desktop\PiecProstychZadan2\ToDoList\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfo.cs
+C:\Users\Minio\Desktop\PiecProstychZadan2\ToDoList\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.csproj.CoreCompileInputs.cache

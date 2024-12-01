@@ -1,0 +1,27 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="ToDoList.MainWindow"
+        Title="ToDoList">
+    
+    <Grid>
+        <TextBox Name="TaskDescriptionTextBox" Width="400" Height="30"
+                 VerticalAlignment="Top" Margin="10"/>
+
+        <Button Name="AddTaskButton" Content="Dodaj Zadanie" Width="100" Height="30"
+                VerticalAlignment="Top" Margin="420,10,0,0" Click="AddTaskButton_Click"/>
+
+        <ListBox Name="TasksListBox" Width="510" Height="200" Margin="10,50,0,0"/>
+
+        <ComboBox Name="FilterComboBox" Width="200" Height="30"
+                  VerticalAlignment="Bottom" Margin="10,0,0,10" SelectionChanged="FilterComboBox_SelectionChanged">
+
+            <ComboBoxItem Content="Wszystkie"/>
+            <ComboBoxItem Content="Do Zrobienia"/>
+            <ComboBoxItem Content="Zrobione"/>
+
+        </ComboBox>
+    </Grid>
+</Window>
